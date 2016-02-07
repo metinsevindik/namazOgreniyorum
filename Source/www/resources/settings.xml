@@ -1,0 +1,1030 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <sounds>
+    <!-- Speed 1 -->
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/allahuekber.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/allahummebarik.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/allahummeentesselamu.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/allahummesalli.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/asr.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/ayetelkursi.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/bismillahirrahmanirrahim.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/esselamualeykumverahmetullah.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/ettehiyyatu.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/euzubesmele.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/fatiha.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/felak.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/fil.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/ihlas.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/Kamet.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/kevser.MP3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/kunutduasibir.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/kunutduasiiki.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/kureys.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/leilaheillallahu.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/maun.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/nas.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/nasr.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/niyetaksamfarz.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/niyetaksamsunnet.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/niyetikindifarz.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/niyetikindisunnet.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/niyetoglefarz.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/niyetogleilksunnet.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/niyetoglesonsunnet.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/niyetsabahfarz.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/niyetsabahsunnet.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/niyetvitir.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/niyetyatsifarz.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/niyetyatsiilksunnet.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/niyetyatsisonsunnet.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/rabbenaatina.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/rabbenafirli.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/rabbenelekelhamd.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/samiallahulimenhamideh.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/selatentuncine.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/subhanallahuvelhamdulillahi.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/subhaneke.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/subhanerabbiyelala.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/subhanerabbiyelazim.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/tebbet.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/tesbih.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/wait1sn.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/zulcelalisubhannallah.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/zulkdretillahuekber.mp3"/>
+    <sound speed="1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed1/zulkemalelhamdulillah.mp3"/>
+    <!-- Speed -1 -->
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/allahuekber.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/allahummebarik.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/allahummeentesselamu.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/allahummesalli.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/asr.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/ayetelkursi.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/bismillahirrahmanirrahim.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/esselamualeykumverahmetullah.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/ettehiyyatu.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/euzubesmele.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/fatiha.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/felak.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/fil.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/ihlas.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/Kamet.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/kevser.MP3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/kunutduasibir.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/kunutduasiiki.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/kureys.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/leilaheillallahu.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/maun.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/nas.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/nasr.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/niyetaksamfarz.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/niyetaksamsunnet.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/niyetikindifarz.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/niyetikindisunnet.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/niyetoglefarz.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/niyetogleilksunnet.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/niyetoglesonsunnet.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/niyetsabahfarz.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/niyetsabahsunnet.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/niyetvitir.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/niyetyatsifarz.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/niyetyatsiilksunnet.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/niyetyatsisonsunnet.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/rabbenaatina.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/rabbenafirli.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/rabbenelekelhamd.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/samiallahulimenhamideh.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/selatentuncine.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/subhanallahuvelhamdulillahi.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/subhaneke.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/subhanerabbiyelala.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/subhanerabbiyelazim.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/tebbet.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/tesbih.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/wait1sn.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/zulcelalisubhannallah.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/zulkdretillahuekber.mp3"/>
+    <sound speed="-1" url="https://raw.githubusercontent.com/supermaker/namazOgreniyorum/master/resources/sounds/speed-1/zulkemalelhamdulillah.mp3"/>
+  </sounds>
+  <vakitler>
+    <!--sabah sünnet-->
+    <vakit no="1"  section="1" rekat="1" duaAdi="Niyet" path="niyetsabahsunnet.mp3" image="kiyam.png"/>
+    <vakit no="1"  section="1" rekat="1" ses="allahuekber" image="tekbir.png"/>
+    <vakit no="1"  section="1" rekat="1" dua="subhaneke" />
+    <vakit no="1"  section="1" rekat="1" dua="euzubesmele"/>
+    <vakit no="1"  section="1" rekat="1" dua="fatiha" />
+    <vakit no="1"  section="1" rekat="1" sure="*" />
+    <vakit no="1"  section="1" rekat="1" ses="allahuekber" image="ruku.png"/>
+    <vakit no="1"  section="1" rekat="1" dua="subhanerabbiyelazim"/>
+    <vakit no="1"  section="1" rekat="1" dua="Semiallahu"/>
+    <vakit no="1"  section="1" rekat="1" dua="Rabbenalekelhamd" />
+    <vakit no="1"  section="1" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="1"  section="1" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="1"  section="1" rekat="1" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="1"  section="1" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="1"  section="1" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="1"  section="1" rekat="1" ses="allahuekber" image="elbagla.png"/>
+
+    <vakit no="1"  section="1" rekat="2" dua="besmele" />
+    <vakit no="1"  section="1" rekat="2" dua="fatiha" />
+    <vakit no="1"  section="1" rekat="2" sure="*" />
+    <vakit no="1"  section="1" rekat="2" ses="allahuekber" image="ruku.png"/>
+    <vakit no="1"  section="1" rekat="2" dua="subhanerabbiyelazim"/>
+    <vakit no="1"  section="1" rekat="2" dua="Semiallahu" />
+    <vakit no="1"  section="1" rekat="2" dua="Rabbenalekelhamd" />
+    <vakit no="1"  section="1" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="1"  section="1" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="1"  section="1" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="1"  section="1" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="1"  section="1" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="1"  section="1" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="1"  section="1" rekat="2" dua="ettehiyyatu" /> 
+    <vakit no="1"  section="1" rekat="2" dua="allahummesalli" />
+    <vakit no="1"  section="1" rekat="2" dua="allahummebarik" />
+    <vakit no="1"  section="1" rekat="2" dua="rabbenaatina"/>
+    <vakit no="1"  section="1" rekat="2" dua="rabbenagfirli"/>
+    <vakit no="1"  section="1" rekat="2" duaAdi="Sağa Selam" path="esselamualeykumverahmetullah.mp3" image="sagaselam.png"/>
+    <vakit no="1"  section="1" rekat="2" duaAdi="Sola Selam" path="esselamualeykumverahmetullah.mp3" image="solaselam.png"/>
+
+    <!--sabah farz-->
+    <vakit no="1"  section="2" rekat="1" duaAdi="Niyet" path="niyetsabahfarz.mp3" image="kiyam.png"/>
+    <vakit no="1"  section="2" rekat="1" ses="allahuekber" image="tekbir.png"/>
+    <vakit no="1"  section="2" rekat="1" dua="subhaneke" />
+    <vakit no="1"  section="2" rekat="1" dua="euzubesmele" />
+    <vakit no="1"  section="2" rekat="1" dua="fatiha" />
+    <vakit no="1"  section="2" rekat="1" sure="*" />
+    <vakit no="1"  section="2" rekat="1" ses="allahuekber" image="ruku.png"/>
+    <vakit no="1"  section="2" rekat="1" dua="subhanerabbiyelazim" />
+    <vakit no="1"  section="2" rekat="1" dua="Semiallahu" />
+    <vakit no="1"  section="2" rekat="1" dua="Rabbenalekelhamd"/>
+    <vakit no="1"  section="2" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="1"  section="2" rekat="1" dua="subhanerabbiyelala"/>
+    <vakit no="1"  section="2" rekat="1" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="1"  section="2" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="1"  section="2" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="1"  section="2" rekat="1" ses="allahuekber" image="elbagla.png"/>
+
+    <vakit no="1"  section="2" rekat="2" dua="besmele" />
+    <vakit no="1"  section="2" rekat="2" dua="fatiha" />
+    <vakit no="1"  section="2" rekat="2" sure="*" />
+    <vakit no="1"  section="2" rekat="2" ses="allahuekber" image="ruku.png"/>
+    <vakit no="1"  section="2" rekat="2" dua="subhanerabbiyelazim"/>
+    <vakit no="1"  section="2" rekat="2" dua="Semiallahu" />g"/>
+    <vakit no="1"  section="2" rekat="2" dua="Rabbenalekelhamd" />
+    <vakit no="1"  section="2" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="1"  section="2" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="1"  section="2" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="1"  section="2" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="1"  section="2" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="1"  section="2" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="1"  section="2" rekat="2" dua="ettehiyyatu" />
+    <vakit no="1"  section="2" rekat="2" dua="allahummesalli" />
+    <vakit no="1"  section="2" rekat="2" dua="allahummebarik" />
+    <vakit no="1"  section="2" rekat="2" dua="rabbenaatina"/>
+    <vakit no="1"  section="2" rekat="2" dua="rabbenagfirli"/>
+    <vakit no="1"  section="2" rekat="2" duaAdi="Sağa Selam" path="esselamualeykumverahmetullah.mp3" image="sagaselam.png"/>
+    <vakit no="1"  section="2" rekat="2" duaAdi="Sola Selam" path="esselamualeykumverahmetullah.mp3" image="solaselam.png"/>
+
+    <!-- Sabah Tesbihat -->
+    <vakit no="1"  section="2" rekat="1" dua="allahummeentesselamu" />
+    <vakit no="1"  section="2" rekat="1" dua="subhanallahuvelhamdulillahi" />
+    <vakit no="1"  section="2" rekat="1" dua="ayetelkursi" /> 
+    <vakit no="1"  section="2" rekat="1" dua="zulcelalisubhannallah"/>
+    <vakit no="1"  section="2" rekat="1" duaAdi="tesbih" path="tesbih.mp3" image="tahiyyat.png" turkce="33 kez Subhanallah denilir" meal="Allah noksan sıfatlardan uzaktır." />
+    <vakit no="1"  section="2" rekat="1" dua="zulkemalelhamdulillah"/>  
+    <vakit no="1"  section="2" rekat="1" duaAdi="tesbih" path="tesbih.mp3" image="tahiyyat.png" turkce="33 kez Elhamdülillah denilir" meal="Hamd Allah'adır."/>
+    <vakit no="1"  section="2" rekat="1" dua="zulkdretillahuekber"/>
+    <vakit no="1"  section="2" rekat="1" duaAdi="tesbih" path="tesbih.mp3" image="tahiyyat.png" turkce="33 kez Allahûekber denilir" meal="Allah en büyüktür." />
+    <vakit no="1"  section="2" rekat="1" dua="leilaheillallahu"/>
+    <vakit no="1"  section="2" rekat="1" dua="selatentuncine"/>
+
+  <!--öğle ilk sünnet-->
+    
+    <vakit no="2"  section="1" rekat="1" duaAdi="Niyet" path="niyetogleilksunnet.mp3" image="kiyam.png"/>
+    <vakit no="2"  section="1" rekat="1" ses="allahuekber" image="tekbir.png"/>
+    <vakit no="2"  section="1" rekat="1" dua="subhaneke" />
+    <vakit no="2"  section="1" rekat="1" dua="euzubesmele"/>
+    <vakit no="2"  section="1" rekat="1" dua="fatiha" />
+    <vakit no="2"  section="1" rekat="1" sure="*" />
+    <vakit no="2"  section="1" rekat="1" ses="allahuekber" image="ruku.png"/>
+    <vakit no="2"  section="1" rekat="1" dua="subhanerabbiyelazim"/>
+    <vakit no="2"  section="1" rekat="1" dua="Semiallahu"/>
+    <vakit no="2"  section="1" rekat="1" dua="Rabbenalekelhamd" />
+    <vakit no="2"  section="1" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="2"  section="1" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="2"  section="1" rekat="1" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="2"  section="1" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="2"  section="1" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="2"  section="1" rekat="1" ses="allahuekber" image="elbagla.png"/>
+               
+    <vakit no="2"  section="1" rekat="2" dua="besmele" />
+    <vakit no="2"  section="1" rekat="2" dua="fatiha" />
+    <vakit no="2"  section="1" rekat="2" sure="*" />
+    <vakit no="2"  section="1" rekat="2" ses="allahuekber" image="ruku.png"/>
+    <vakit no="2"  section="1" rekat="2" dua="subhanerabbiyelazim"/>
+    <vakit no="2"  section="1" rekat="2" dua="Semiallahu" />
+    <vakit no="2"  section="1" rekat="2" dua="Rabbenalekelhamd" />
+    <vakit no="2"  section="1" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="2"  section="1" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="2"  section="1" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="2"  section="1" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="2"  section="1" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="2"  section="1" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="2"  section="1" rekat="2" dua="ettehiyyatu" />
+    <vakit no="2"  section="1" rekat="2" ses="allahuekber" image="elbagla.png"/>
+    
+    <vakit no="2"  section="1" rekat="3" dua="besmele" />
+    <vakit no="2"  section="1" rekat="3" dua="fatiha" />
+    <vakit no="2"  section="1" rekat="3" sure="*" />
+    <vakit no="2"  section="1" rekat="3" ses="allahuekber" image="ruku.png"/>
+    <vakit no="2"  section="1" rekat="3" dua="subhanerabbiyelazim"/>
+    <vakit no="2"  section="1" rekat="3" dua="Semiallahu"/>
+    <vakit no="2"  section="1" rekat="3" dua="Rabbenalekelhamd" />
+    <vakit no="2"  section="1" rekat="3" ses="allahuekber" image="secde.png"/>
+    <vakit no="2"  section="1" rekat="3" dua="subhanerabbiyelala" />
+    <vakit no="2"  section="1" rekat="3" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="2"  section="1" rekat="3" ses="allahuekber" image="secde.png"/>
+    <vakit no="2"  section="1" rekat="3" dua="subhanerabbiyelala" />
+    <vakit no="2"  section="1" rekat="3" ses="allahuekber" image="elbagla.png"/>
+               
+    <vakit no="2"  section="1" rekat="4" dua="besmele" />
+    <vakit no="2"  section="1" rekat="4" dua="fatiha" />
+    <vakit no="2"  section="1" rekat="4" sure="*" />
+    <vakit no="2"  section="1" rekat="4" ses="allahuekber" image="ruku.png"/>
+    <vakit no="2"  section="1" rekat="4" dua="subhanerabbiyelazim"/>
+    <vakit no="2"  section="1" rekat="4" dua="Semiallahu" />
+    <vakit no="2"  section="1" rekat="4" dua="Rabbenalekelhamd" />
+    <vakit no="2"  section="1" rekat="4" ses="allahuekber" image="secde.png"/>
+    <vakit no="2"  section="1" rekat="4" dua="subhanerabbiyelala" />
+    <vakit no="2"  section="1" rekat="4" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="2"  section="1" rekat="4" ses="allahuekber" image="secde.png"/>
+    <vakit no="2"  section="1" rekat="4" dua="subhanerabbiyelala" />
+    <vakit no="2"  section="1" rekat="4" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="2"  section="1" rekat="4" dua="ettehiyyatu" />   
+    <vakit no="2"  section="1" rekat="4" dua="allahummesalli" />
+    <vakit no="2"  section="1" rekat="4" dua="allahummebarik" />
+    <vakit no="2"  section="1" rekat="4" dua="rabbenaatina"/>
+    <vakit no="2"  section="1" rekat="4" dua="rabbenagfirli"/>
+    <vakit no="2"  section="1" rekat="4" duaAdi="Sağa Selam" path="esselamualeykumverahmetullah.mp3" image="sagaselam.png"/>
+    <vakit no="2"  section="1" rekat="4" duaAdi="Sola Selam" path="esselamualeykumverahmetullah.mp3" image="solaselam.png"/>
+    
+      
+  <!--öğle farz-->
+                            
+    <vakit no="2"  section="2" rekat="1" duaAdi="Niyet" path="niyetoglefarz.mp3" image="kiyam.png"/>
+    <vakit no="2"  section="2" rekat="1" ses="allahuekber" image="tekbir.png"/>
+    <vakit no="2"  section="2" rekat="1" dua="subhaneke" />
+    <vakit no="2"  section="2" rekat="1" dua="euzubesmele"/>
+    <vakit no="2"  section="2" rekat="1" dua="fatiha" />
+    <vakit no="2"  section="2" rekat="1" sure="*" />
+    <vakit no="2"  section="2" rekat="1" ses="allahuekber" image="ruku.png"/>
+    <vakit no="2"  section="2" rekat="1" dua="subhanerabbiyelazim"/>
+    <vakit no="2"  section="2" rekat="1" dua="Semiallahu"/>
+    <vakit no="2"  section="2" rekat="1" dua="Rabbenalekelhamd" />
+    <vakit no="2"  section="2" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="2"  section="2" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="2"  section="2" rekat="1" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="2"  section="2" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="2"  section="2" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="2"  section="2" rekat="1" ses="allahuekber" image="elbagla.png"/>
+                            
+    <vakit no="2"  section="2" rekat="2" dua="besmele" />
+    <vakit no="2"  section="2" rekat="2" dua="fatiha" />
+    <vakit no="2"  section="2" rekat="2" sure="*" />
+    <vakit no="2"  section="2" rekat="2" ses="allahuekber" image="ruku.png"/>
+    <vakit no="2"  section="2" rekat="2" dua="subhanerabbiyelazim"/>
+    <vakit no="2"  section="2" rekat="2" dua="Semiallahu" />
+    <vakit no="2"  section="2" rekat="2" dua="Rabbenalekelhamd" />
+    <vakit no="2"  section="2" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="2"  section="2" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="2"  section="2" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="2"  section="2" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="2"  section="2" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="2"  section="2" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="2"  section="2" rekat="2" dua="ettehiyyatu" />
+    <vakit no="2"  section="2" rekat="2" ses="allahuekber" image="elbagla.png"/>
+                            
+    <vakit no="2"  section="2" rekat="3" dua="besmele" />
+    <vakit no="2"  section="2" rekat="3" dua="fatiha" />
+    <vakit no="2"  section="2" rekat="3" ses="allahuekber" image="ruku.png"/>
+    <vakit no="2"  section="2" rekat="3" dua="subhanerabbiyelazim"/>
+    <vakit no="2"  section="2" rekat="3" dua="Semiallahu"/>
+    <vakit no="2"  section="2" rekat="3" dua="Rabbenalekelhamd" />
+    <vakit no="2"  section="2" rekat="3" ses="allahuekber" image="secde.png"/>
+    <vakit no="2"  section="2" rekat="3" dua="subhanerabbiyelala" />
+    <vakit no="2"  section="2" rekat="3" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="2"  section="2" rekat="3" ses="allahuekber" image="secde.png"/>
+    <vakit no="2"  section="2" rekat="3" dua="subhanerabbiyelala" />
+    <vakit no="2"  section="2" rekat="3" ses="allahuekber" image="elbagla.png"/>
+                            
+    <vakit no="2"  section="2" rekat="4" dua="besmele" />
+    <vakit no="2"  section="2" rekat="4" dua="fatiha" />
+    <vakit no="2"  section="2" rekat="4" ses="allahuekber" image="ruku.png"/>
+    <vakit no="2"  section="2" rekat="4" dua="subhanerabbiyelazim"/>
+    <vakit no="2"  section="2" rekat="4" dua="Semiallahu" />
+    <vakit no="2"  section="2" rekat="4" dua="Rabbenalekelhamd" />
+    <vakit no="2"  section="2" rekat="4" ses="allahuekber" image="secde.png"/>
+    <vakit no="2"  section="2" rekat="4" dua="subhanerabbiyelala" />
+    <vakit no="2"  section="2" rekat="4" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="2"  section="2" rekat="4" ses="allahuekber" image="secde.png"/>
+    <vakit no="2"  section="2" rekat="4" dua="subhanerabbiyelala" />
+    <vakit no="2"  section="2" rekat="4" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="2"  section="2" rekat="4" dua="ettehiyyatu" />   
+    <vakit no="2"  section="2" rekat="4" dua="allahummesalli" />
+    <vakit no="2"  section="2" rekat="4" dua="allahummebarik" />
+    <vakit no="2"  section="2" rekat="4" dua="rabbenaatina"/>
+    <vakit no="2"  section="2" rekat="4" dua="rabbenagfirli"/>
+    <vakit no="2"  section="2" rekat="4" duaAdi="Sağa Selam" path="esselamualeykumverahmetullah.mp3" image="sagaselam.png"/>
+    <vakit no="2"  section="2" rekat="4" duaAdi="Sola Selam" path="esselamualeykumverahmetullah.mp3" image="solaselam.png"/>
+    
+    <!--öğle son sünnet-->
+    <vakit no="2"  section="3" rekat="1" duaAdi="Niyet" path="niyetoglesonsunnet.mp3" image="kiyam.png"/>
+    <vakit no="2"  section="3" rekat="1" ses="allahuekber" image="tekbir.png"/>
+    <vakit no="2"  section="3" rekat="1" dua="subhaneke" />
+    <vakit no="2"  section="3" rekat="1" dua="euzubesmele"/>
+    <vakit no="2"  section="3" rekat="1" dua="fatiha" />
+    <vakit no="2"  section="3" rekat="1" sure="*" />
+    <vakit no="2"  section="3" rekat="1" ses="allahuekber" image="ruku.png"/>
+    <vakit no="2"  section="3" rekat="1" dua="subhanerabbiyelazim"/>
+    <vakit no="2"  section="3" rekat="1" dua="Semiallahu"/>
+    <vakit no="2"  section="3" rekat="1" dua="Rabbenalekelhamd" />
+    <vakit no="2"  section="3" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="2"  section="3" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="2"  section="3" rekat="1" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="2"  section="3" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="2"  section="3" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="2"  section="3" rekat="1" ses="allahuekber" image="elbagla.png"/>
+                            
+    <vakit no="2"  section="3" rekat="2" dua="besmele" />
+    <vakit no="2"  section="3" rekat="2" dua="fatiha" />
+    <vakit no="2"  section="3" rekat="2" sure="*" />
+    <vakit no="2"  section="3" rekat="2" ses="allahuekber" image="ruku.png"/>
+    <vakit no="2"  section="3" rekat="2" dua="subhanerabbiyelazim"/>
+    <vakit no="2"  section="3" rekat="2" dua="Semiallahu" />
+    <vakit no="2"  section="3" rekat="2" dua="Rabbenalekelhamd" />
+    <vakit no="2"  section="3" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="2"  section="3" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="2"  section="3" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="2"  section="3" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="2"  section="3" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="2"  section="3" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="2"  section="3" rekat="2" dua="ettehiyyatu" />
+    <vakit no="2"  section="3" rekat="2" dua="allahummesalli" />
+    <vakit no="2"  section="3" rekat="2" dua="allahummebarik" />
+    <vakit no="2"  section="3" rekat="2" dua="rabbenaatina"/>
+    <vakit no="2"  section="3" rekat="2" dua="rabbenagfirli"/>
+    <vakit no="2"  section="3" rekat="2" duaAdi="Sağa Selam" path="esselamualeykumverahmetullah.mp3" image="sagaselam.png"/>
+    <vakit no="2"  section="3" rekat="2" duaAdi="Sola Selam" path="esselamualeykumverahmetullah.mp3" image="solaselam.png"/>
+
+    <!-- Öğle Tesbihat -->
+    <vakit no="2"  section="4" rekat="1" dua="allahummeentesselamu" />
+    <vakit no="2"  section="4" rekat="1" dua="subhanallahuvelhamdulillahi" />
+    <vakit no="2"  section="4" rekat="1" dua="ayetelkursi" /> 
+    <vakit no="2"  section="4" rekat="1" dua="zulcelalisubhannallah"/>
+    <vakit no="2"  section="4" rekat="1" duaAdi="tesbih" path="tesbih.mp3" image="tahiyyat.png" turkce="33 kez Subhanallah denilir" meal="Allah noksan sıfatlardan uzaktır." />
+    <vakit no="2"  section="4" rekat="1" dua="zulkemalelhamdulillah"/>  
+    <vakit no="2"  section="4" rekat="1" duaAdi="tesbih" path="tesbih.mp3" image="tahiyyat.png" turkce="33 kez Elhamdülillah denilir" meal="Hamd Allah'adır."/>
+    <vakit no="2"  section="4" rekat="1" dua="zulkdretillahuekber"/>
+    <vakit no="2"  section="4" rekat="1" duaAdi="tesbih" path="tesbih.mp3" image="tahiyyat.png" turkce="33 kez Allahûekber denilir" meal="Allah en büyüktür." />
+    <vakit no="2"  section="4" rekat="1" dua="leilaheillallahu"/>
+    <vakit no="2"  section="4" rekat="1" dua="selatentuncine"/>
+
+  <!--ikindi sünnet-->
+    
+    <vakit no="3"  section="1" rekat="1" duaAdi="Niyet" path="niyetikindisunnet.mp3" image="kiyam.png"/>
+    <vakit no="3"  section="1" rekat="1" ses="allahuekber" image="tekbir.png"/>
+    <vakit no="3"  section="1" rekat="1" dua="subhaneke" />
+    <vakit no="3"  section="1" rekat="1" dua="euzubesmele"/>
+    <vakit no="3"  section="1" rekat="1" dua="fatiha" />
+    <vakit no="3"  section="1" rekat="1" sure="*" />
+    <vakit no="3"  section="1" rekat="1" ses="allahuekber" image="ruku.png"/>
+    <vakit no="3"  section="1" rekat="1" dua="subhanerabbiyelazim"/>
+    <vakit no="3"  section="1" rekat="1" dua="Semiallahu"/>
+    <vakit no="3"  section="1" rekat="1" dua="Rabbenalekelhamd" />
+    <vakit no="3"  section="1" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="3"  section="1" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="3"  section="1" rekat="1" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="3"  section="1" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="3"  section="1" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="3"  section="1" rekat="1" ses="allahuekber" image="elbagla.png"/>
+               
+    <vakit no="3"  section="1" rekat="2" dua="besmele" />
+    <vakit no="3"  section="1" rekat="2" dua="fatiha" />
+    <vakit no="3"  section="1" rekat="2" sure="*" />
+    <vakit no="3"  section="1" rekat="2" ses="allahuekber" image="ruku.png"/>
+    <vakit no="3"  section="1" rekat="2" dua="subhanerabbiyelazim"/>
+    <vakit no="3"  section="1" rekat="2" dua="Semiallahu" />
+    <vakit no="3"  section="1" rekat="2" dua="Rabbenalekelhamd" />
+    <vakit no="3"  section="1" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="3"  section="1" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="3"  section="1" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="3"  section="1" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="3"  section="1" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="3"  section="1" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="3"  section="1" rekat="2" dua="ettehiyyatu" />
+    <vakit no="3"  section="1" rekat="2" dua="allahummesalli" />
+    <vakit no="3"  section="1" rekat="2" dua="allahummebarik" />
+    <vakit no="3"  section="1" rekat="2" ses="allahuekber" image="elbagla.png"/>
+               
+    <vakit no="3"  section="1" rekat="3" dua="subhaneke" />
+    <vakit no="3"  section="1" rekat="3" dua="euzubesmele"/>
+    <vakit no="3"  section="1" rekat="3" dua="fatiha" />
+    <vakit no="3"  section="1" rekat="3" sure="*" />
+    <vakit no="3"  section="1" rekat="3" ses="allahuekber" image="ruku.png"/>
+    <vakit no="3"  section="1" rekat="3" dua="subhanerabbiyelazim"/>
+    <vakit no="3"  section="1" rekat="3" dua="Semiallahu"/>
+    <vakit no="3"  section="1" rekat="3" dua="Rabbenalekelhamd" />
+    <vakit no="3"  section="1" rekat="3" ses="allahuekber" image="secde.png"/>
+    <vakit no="3"  section="1" rekat="3" dua="subhanerabbiyelala" />
+    <vakit no="3"  section="1" rekat="3" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="3"  section="1" rekat="3" ses="allahuekber" image="secde.png"/>
+    <vakit no="3"  section="1" rekat="3" dua="subhanerabbiyelala" />
+    <vakit no="3"  section="1" rekat="3" ses="allahuekber" image="elbagla.png"/>
+               
+    <vakit no="3"  section="1" rekat="4" dua="besmele" />
+    <vakit no="3"  section="1" rekat="4" dua="fatiha" />
+    <vakit no="3"  section="1" rekat="4" sure="*" />
+    <vakit no="3"  section="1" rekat="4" ses="allahuekber" image="ruku.png"/>
+    <vakit no="3"  section="1" rekat="4" dua="subhanerabbiyelazim"/>
+    <vakit no="3"  section="1" rekat="4" dua="Semiallahu" />
+    <vakit no="3"  section="1" rekat="4" dua="Rabbenalekelhamd" />
+    <vakit no="3"  section="1" rekat="4" ses="allahuekber" image="secde.png"/>
+    <vakit no="3"  section="1" rekat="4" dua="subhanerabbiyelala" />
+    <vakit no="3"  section="1" rekat="4" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="3"  section="1" rekat="4" ses="allahuekber" image="secde.png"/>
+    <vakit no="3"  section="1" rekat="4" dua="subhanerabbiyelala" />
+    <vakit no="3"  section="1" rekat="4" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="3"  section="1" rekat="4" dua="ettehiyyatu" />   
+    <vakit no="3"  section="1" rekat="4" dua="allahummesalli" />
+    <vakit no="3"  section="1" rekat="4" dua="allahummebarik" />
+    <vakit no="3"  section="1" rekat="4" dua="rabbenaatina"/>
+    <vakit no="3"  section="1" rekat="4" dua="rabbenagfirli"/>
+    <vakit no="3"  section="1" rekat="4" duaAdi="Sağa Selam" path="esselamualeykumverahmetullah.mp3" image="sagaselam.png"/>
+    <vakit no="3"  section="1" rekat="4" duaAdi="Sola Selam" path="esselamualeykumverahmetullah.mp3" image="solaselam.png"/>
+               
+  <!--ikindi farz-->
+                            
+    <vakit no="3"  section="2" rekat="1" duaAdi="Niyet" path="niyetikindifarz.mp3" image="kiyam.png"/>
+    <vakit no="3"  section="2" rekat="1" ses="allahuekber" image="tekbir.png"/>
+    <vakit no="3"  section="2" rekat="1" dua="subhaneke" />
+    <vakit no="3"  section="2" rekat="1" dua="euzubesmele"/>
+    <vakit no="3"  section="2" rekat="1" dua="fatiha" />
+    <vakit no="3"  section="2" rekat="1" sure="*" />
+    <vakit no="3"  section="2" rekat="1" ses="allahuekber" image="ruku.png"/>
+    <vakit no="3"  section="2" rekat="1" dua="subhanerabbiyelazim"/>
+    <vakit no="3"  section="2" rekat="1" dua="Semiallahu"/>
+    <vakit no="3"  section="2" rekat="1" dua="Rabbenalekelhamd" />
+    <vakit no="3"  section="2" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="3"  section="2" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="3"  section="2" rekat="1" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="3"  section="2" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="3"  section="2" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="3"  section="2" rekat="1" ses="allahuekber" image="elbagla.png"/>
+                           
+    <vakit no="3"  section="2" rekat="2" dua="besmele" />
+    <vakit no="3"  section="2" rekat="2" dua="fatiha" />
+    <vakit no="3"  section="2" rekat="2" sure="*" />
+    <vakit no="3"  section="2" rekat="2" ses="allahuekber" image="ruku.png"/>
+    <vakit no="3"  section="2" rekat="2" dua="subhanerabbiyelazim"/>
+    <vakit no="3"  section="2" rekat="2" dua="Semiallahu" />
+    <vakit no="3"  section="2" rekat="2" dua="Rabbenalekelhamd" />
+    <vakit no="3"  section="2" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="3"  section="2" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="3"  section="2" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="3"  section="2" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="3"  section="2" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="3"  section="2" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="3"  section="2" rekat="2" dua="ettehiyyatu" />
+    <vakit no="3"  section="2" rekat="2" ses="allahuekber" image="elbagla.png"/>
+                           
+    <vakit no="3"  section="2" rekat="3" dua="besmele" />
+    <vakit no="3"  section="2" rekat="3" dua="fatiha" />
+    <vakit no="3"  section="2" rekat="3" ses="allahuekber" image="ruku.png"/>
+    <vakit no="3"  section="2" rekat="3" dua="subhanerabbiyelazim"/>
+    <vakit no="3"  section="2" rekat="3" dua="Semiallahu"/>
+    <vakit no="3"  section="2" rekat="3" dua="Rabbenalekelhamd" />
+    <vakit no="3"  section="2" rekat="3" ses="allahuekber" image="secde.png"/>
+    <vakit no="3"  section="2" rekat="3" dua="subhanerabbiyelala" />
+    <vakit no="3"  section="2" rekat="3" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="3"  section="2" rekat="3" ses="allahuekber" image="secde.png"/>
+    <vakit no="3"  section="2" rekat="3" dua="subhanerabbiyelala" />
+    <vakit no="3"  section="2" rekat="3" ses="allahuekber" image="elbagla.png"/>
+                           
+    <vakit no="3"  section="2" rekat="4" dua="besmele" />
+    <vakit no="3"  section="2" rekat="4" dua="fatiha" />
+    <vakit no="3"  section="2" rekat="4" ses="allahuekber" image="ruku.png"/>
+    <vakit no="3"  section="2" rekat="4" dua="subhanerabbiyelazim"/>
+    <vakit no="3"  section="2" rekat="4" dua="Semiallahu" />
+    <vakit no="3"  section="2" rekat="4" dua="Rabbenalekelhamd" />
+    <vakit no="3"  section="2" rekat="4" ses="allahuekber" image="secde.png"/>
+    <vakit no="3"  section="2" rekat="4" dua="subhanerabbiyelala" />
+    <vakit no="3"  section="2" rekat="4" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="3"  section="2" rekat="4" ses="allahuekber" image="secde.png"/>
+    <vakit no="3"  section="2" rekat="4" dua="subhanerabbiyelala" />
+    <vakit no="3"  section="2" rekat="4" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="3"  section="2" rekat="4" dua="ettehiyyatu" />   
+    <vakit no="3"  section="2" rekat="4" dua="allahummesalli" />
+    <vakit no="3"  section="2" rekat="4" dua="allahummebarik" />
+    <vakit no="3"  section="2" rekat="4" dua="rabbenaatina"/>
+    <vakit no="3"  section="2" rekat="4" dua="rabbenagfirli"/>
+    <vakit no="3"  section="2" rekat="4" duaAdi="Sağa Selam" path="esselamualeykumverahmetullah.mp3" image="sagaselam.png"/>
+    <vakit no="3"  section="2" rekat="4" duaAdi="Sola Selam" path="esselamualeykumverahmetullah.mp3" image="solaselam.png"/>              
+  
+    <!-- İkindi Tesbihat -->
+    <vakit no="3"  section="3" rekat="1" dua="allahummeentesselamu" />
+    <vakit no="3"  section="3" rekat="1" dua="subhanallahuvelhamdulillahi" />
+    <vakit no="3"  section="3" rekat="1" dua="ayetelkursi" /> 
+    <vakit no="3"  section="3" rekat="1" dua="zulcelalisubhannallah"/>
+    <vakit no="3"  section="3" rekat="1" duaAdi="tesbih" path="tesbih.mp3" image="tahiyyat.png" turkce="33 kez Subhanallah denilir" meal="Allah noksan sıfatlardan uzaktır." />
+    <vakit no="3"  section="3" rekat="1" dua="zulkemalelhamdulillah"/>  
+    <vakit no="3"  section="3" rekat="1" duaAdi="tesbih" path="tesbih.mp3" image="tahiyyat.png" turkce="33 kez Elhamdülillah denilir" meal="Hamd Allah'adır."/>
+    <vakit no="3"  section="3" rekat="1" dua="zulkdretillahuekber"/>
+    <vakit no="3"  section="3" rekat="1" duaAdi="tesbih" path="tesbih.mp3" image="tahiyyat.png" turkce="33 kez Allahûekber denilir" meal="Allah en büyüktür." />
+    <vakit no="3"  section="3" rekat="1" dua="leilaheillallahu"/>
+    <vakit no="3"  section="3" rekat="1" dua="selatentuncine"/>
+
+  
+   <!--akşam farz-->
+                            
+    <vakit no="4"  section="1" rekat="1" duaAdi="Niyet" path="niyetaksamfarz.mp3" image="kiyam.png"/>
+    <vakit no="4"  section="1" rekat="1" ses="allahuekber" image="tekbir.png"/>
+    <vakit no="4"  section="1" rekat="1" dua="subhaneke" />
+    <vakit no="4"  section="1" rekat="1" dua="euzubesmele"/>
+    <vakit no="4"  section="1" rekat="1" dua="fatiha" />
+    <vakit no="4"  section="1" rekat="1" sure="*" />
+    <vakit no="4"  section="1" rekat="1" ses="allahuekber" image="ruku.png"/>
+    <vakit no="4"  section="1" rekat="1" dua="subhanerabbiyelazim"/>
+    <vakit no="4"  section="1" rekat="1" dua="Semiallahu"/>
+    <vakit no="4"  section="1" rekat="1" dua="Rabbenalekelhamd" />
+    <vakit no="4"  section="1" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="4"  section="1" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="4"  section="1" rekat="1" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="4"  section="1" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="4"  section="1" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="4"  section="1" rekat="1" ses="allahuekber" image="elbagla.png"/>
+                         
+    <vakit no="4"  section="1" rekat="2" dua="besmele" />
+    <vakit no="4"  section="1" rekat="2" dua="fatiha" />
+    <vakit no="4"  section="1" rekat="2" sure="*" />
+    <vakit no="4"  section="1" rekat="2" ses="allahuekber" image="ruku.png"/>
+    <vakit no="4"  section="1" rekat="2" dua="subhanerabbiyelazim"/>
+    <vakit no="4"  section="1" rekat="2" dua="Semiallahu" />
+    <vakit no="4"  section="1" rekat="2" dua="Rabbenalekelhamd" />
+    <vakit no="4"  section="1" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="4"  section="1" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="4"  section="1" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="4"  section="1" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="4"  section="1" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="4"  section="1" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="4"  section="1" rekat="2" dua="ettehiyyatu" />
+    <vakit no="4"  section="1" rekat="2" ses="allahuekber" image="elbagla.png"/>
+
+    <vakit no="4"  section="1" rekat="3" dua="besmele" />
+    <vakit no="4"  section="1" rekat="3" dua="fatiha" />
+    <vakit no="4"  section="1" rekat="3" ses="allahuekber" image="ruku.png"/>
+    <vakit no="4"  section="1" rekat="3" dua="subhanerabbiyelazim"/>
+    <vakit no="4"  section="1" rekat="3" dua="Semiallahu" />
+    <vakit no="4"  section="1" rekat="3" dua="Rabbenalekelhamd" />
+    <vakit no="4"  section="1" rekat="3" ses="allahuekber" image="secde.png"/>
+    <vakit no="4"  section="1" rekat="3" dua="subhanerabbiyelala" />
+    <vakit no="4"  section="1" rekat="3" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="4"  section="1" rekat="3" ses="allahuekber" image="secde.png"/>
+    <vakit no="4"  section="1" rekat="3" dua="subhanerabbiyelala" />
+    <vakit no="4"  section="1" rekat="3" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="4"  section="1" rekat="3" dua="ettehiyyatu" />   
+    <vakit no="4"  section="1" rekat="3" dua="allahummesalli" />
+    <vakit no="4"  section="1" rekat="3" dua="allahummebarik" />
+    <vakit no="4"  section="1" rekat="3" dua="rabbenaatina"/>
+    <vakit no="4"  section="1" rekat="3" dua="rabbenagfirli"/>
+    <vakit no="4"  section="1" rekat="3" duaAdi="Sağa Selam" path="esselamualeykumverahmetullah.mp3" image="sagaselam.png"/>
+    <vakit no="4"  section="1" rekat="3" duaAdi="Sola Selam" path="esselamualeykumverahmetullah.mp3" image="solaselam.png"/>  
+    
+
+   <!--akşam sünnet-->
+    <vakit no="4"  section="2" rekat="1" duaAdi="Niyet" path="niyetaksamsunnet.mp3" image="kiyam.png"/>
+    <vakit no="4"  section="2" rekat="1" ses="allahuekber" image="tekbir.png"/>
+    <vakit no="4"  section="2" rekat="1" dua="subhaneke" />
+    <vakit no="4"  section="2" rekat="1" dua="euzubesmele"/>
+    <vakit no="4"  section="2" rekat="1" dua="fatiha" />
+    <vakit no="4"  section="2" rekat="1" sure="*" />
+    <vakit no="4"  section="2" rekat="1" ses="allahuekber" image="ruku.png"/>
+    <vakit no="4"  section="2" rekat="1" dua="subhanerabbiyelazim"/>
+    <vakit no="4"  section="2" rekat="1" dua="Semiallahu"/>
+    <vakit no="4"  section="2" rekat="1" dua="Rabbenalekelhamd" />
+    <vakit no="4"  section="2" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="4"  section="2" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="4"  section="2" rekat="1" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="4"  section="2" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="4"  section="2" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="4"  section="2" rekat="1" ses="allahuekber" image="elbagla.png"/>
+               
+    <vakit no="4"  section="2" rekat="2" dua="besmele" />
+    <vakit no="4"  section="2" rekat="2" dua="fatiha" />
+    <vakit no="4"  section="2" rekat="2" sure="*" />
+    <vakit no="4"  section="2" rekat="2" ses="allahuekber" image="ruku.png"/>
+    <vakit no="4"  section="2" rekat="2" dua="subhanerabbiyelazim"/>
+    <vakit no="4"  section="2" rekat="2" dua="Semiallahu" />
+    <vakit no="4"  section="2" rekat="2" dua="Rabbenalekelhamd" />
+    <vakit no="4"  section="2" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="4"  section="2" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="4"  section="2" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="4"  section="2" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="4"  section="2" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="4"  section="2" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="4"  section="2" rekat="2" dua="ettehiyyatu" />
+    <vakit no="4"  section="2" rekat="2" dua="allahummesalli" />
+    <vakit no="4"  section="2" rekat="2" dua="allahummebarik" />
+    <vakit no="4"  section="2" rekat="2" dua="rabbenaatina"/>
+    <vakit no="4"  section="2" rekat="2" dua="rabbenagfirli"/>
+    <vakit no="4"  section="2" rekat="2" duaAdi="Sağa Selam" path="esselamualeykumverahmetullah.mp3" image="sagaselam.png"/>
+    <vakit no="4"  section="2" rekat="2" duaAdi="Sola Selam" path="esselamualeykumverahmetullah.mp3" image="solaselam.png"/>
+
+
+    <!-- Akşam Tesbihat -->
+    
+    <vakit no="4"  section="3" rekat="1" dua="allahummeentesselamu" />
+    <vakit no="4"  section="3" rekat="1" dua="subhanallahuvelhamdulillahi" />
+    <vakit no="4"  section="3" rekat="1" dua="ayetelkursi" /> 
+    <vakit no="4"  section="3" rekat="1" dua="zulcelalisubhannallah"/>
+    <vakit no="4"  section="3" rekat="1" duaAdi="tesbih" path="tesbih.mp3" image="tahiyyat.png" turkce="33 kez Subhanallah denilir" meal="Allah noksan sıfatlardan uzaktır." />
+    <vakit no="4"  section="3" rekat="1" dua="zulkemalelhamdulillah"/>  
+    <vakit no="4"  section="3" rekat="1" duaAdi="tesbih" path="tesbih.mp3" image="tahiyyat.png" turkce="33 kez Elhamdülillah denilir" meal="Hamd Allah'adır."/>
+    <vakit no="4"  section="3" rekat="1" dua="zulkdretillahuekber"/>
+    <vakit no="4"  section="3" rekat="1" duaAdi="tesbih" path="tesbih.mp3" image="tahiyyat.png" turkce="33 kez Allahûekber denilir" meal="Allah en büyüktür." />
+    <vakit no="4"  section="3" rekat="1" dua="leilaheillallahu"/>
+    <vakit no="4"  section="3" rekat="1" dua="selatentuncine"/>
+
+    <!--yatsı ilk sünnet-->
+    
+    <vakit no="5"  section="1" rekat="1" duaAdi="Niyet" path="niyetyatsiilksunnet.mp3" image="kiyam.png"/>
+    <vakit no="5"  section="1" rekat="1" ses="allahuekber" image="tekbir.png"/>
+    <vakit no="5"  section="1" rekat="1" dua="subhaneke" />
+    <vakit no="5"  section="1" rekat="1" dua="euzubesmele"/>
+    <vakit no="5"  section="1" rekat="1" dua="fatiha" />
+    <vakit no="5"  section="1" rekat="1" sure="*" />
+    <vakit no="5"  section="1" rekat="1" ses="allahuekber" image="ruku.png"/>
+    <vakit no="5"  section="1" rekat="1" dua="subhanerabbiyelazim"/>
+    <vakit no="5"  section="1" rekat="1" dua="Semiallahu"/>
+    <vakit no="5"  section="1" rekat="1" dua="Rabbenalekelhamd" />
+    <vakit no="5"  section="1" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="1" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="1" rekat="1" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="5"  section="1" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="1" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="1" rekat="1" ses="allahuekber" image="elbagla.png"/>
+               
+    <vakit no="5"  section="1" rekat="2" dua="besmele" />
+    <vakit no="5"  section="1" rekat="2" dua="fatiha" />
+    <vakit no="5"  section="1" rekat="2" sure="*" />
+    <vakit no="5"  section="1" rekat="2" ses="allahuekber" image="ruku.png"/>
+    <vakit no="5"  section="1" rekat="2" dua="subhanerabbiyelazim"/>
+    <vakit no="5"  section="1" rekat="2" dua="Semiallahu" />
+    <vakit no="5"  section="1" rekat="2" dua="Rabbenalekelhamd" />
+    <vakit no="5"  section="1" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="1" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="1" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="5"  section="1" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="1" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="1" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="5"  section="1" rekat="2" dua="ettehiyyatu" />
+    <vakit no="5"  section="1" rekat="2" dua="allahummesalli" />
+    <vakit no="5"  section="1" rekat="2" dua="allahummebarik" />
+    <vakit no="5"  section="1" rekat="2" ses="allahuekber" image="elbagla.png"/>
+               
+    <vakit no="5"  section="1" rekat="1" dua="subhaneke" />
+    <vakit no="5"  section="1" rekat="1" dua="euzubesmele"/>
+    <vakit no="5"  section="1" rekat="3" dua="fatiha" />
+    <vakit no="5"  section="1" rekat="3" sure="*" />
+    <vakit no="5"  section="1" rekat="3" ses="allahuekber" image="ruku.png"/>
+    <vakit no="5"  section="1" rekat="3" dua="subhanerabbiyelazim"/>
+    <vakit no="5"  section="1" rekat="3" dua="Semiallahu"/>
+    <vakit no="5"  section="1" rekat="3" dua="Rabbenalekelhamd" />
+    <vakit no="5"  section="1" rekat="3" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="1" rekat="3" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="1" rekat="3" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="5"  section="1" rekat="3" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="1" rekat="3" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="1" rekat="3" ses="allahuekber" image="elbagla.png"/>
+               
+    <vakit no="5"  section="1" rekat="4" dua="besmele" />
+    <vakit no="5"  section="1" rekat="4" dua="fatiha" />
+    <vakit no="5"  section="1" rekat="4" sure="*" />
+    <vakit no="5"  section="1" rekat="4" ses="allahuekber" image="ruku.png"/>
+    <vakit no="5"  section="1" rekat="4" dua="subhanerabbiyelazim"/>
+    <vakit no="5"  section="1" rekat="4" dua="Semiallahu" />
+    <vakit no="5"  section="1" rekat="4" dua="Rabbenalekelhamd" />
+    <vakit no="5"  section="1" rekat="4" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="1" rekat="4" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="1" rekat="4" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="5"  section="1" rekat="4" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="1" rekat="4" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="1" rekat="4" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="5"  section="1" rekat="4" dua="ettehiyyatu" />   
+    <vakit no="5"  section="1" rekat="4" dua="allahummesalli" />
+    <vakit no="5"  section="1" rekat="4" dua="allahummebarik" />
+    <vakit no="5"  section="1" rekat="4" dua="rabbenaatina"/>
+    <vakit no="5"  section="1" rekat="4" dua="rabbenagfirli"/>
+    <vakit no="5"  section="1" rekat="4" duaAdi="Sağa Selam" path="esselamualeykumverahmetullah.mp3" image="sagaselam.png"/>
+    <vakit no="5"  section="1" rekat="4" duaAdi="Sola Selam" path="esselamualeykumverahmetullah.mp3" image="solaselam.png"/>
+               
+      
+  <!--yatsı farz-->
+                            
+    <vakit no="5"  section="2" rekat="1" duaAdi="Niyet" path="niyetyatsifarz.mp3" image="kiyam.png"/>
+    <vakit no="5"  section="2" rekat="1" ses="allahuekber" image="tekbir.png"/>
+    <vakit no="5"  section="2" rekat="1" dua="subhaneke" />
+    <vakit no="5"  section="2" rekat="1" dua="euzubesmele"/>
+    <vakit no="5"  section="2" rekat="1" dua="fatiha" />
+    <vakit no="5"  section="2" rekat="1" sure="*" />
+    <vakit no="5"  section="2" rekat="1" ses="allahuekber" image="ruku.png"/>
+    <vakit no="5"  section="2" rekat="1" dua="subhanerabbiyelazim"/>
+    <vakit no="5"  section="2" rekat="1" dua="Semiallahu"/>
+    <vakit no="5"  section="2" rekat="1" dua="Rabbenalekelhamd" />
+    <vakit no="5"  section="2" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="2" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="2" rekat="1" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="5"  section="2" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="2" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="2" rekat="1" ses="allahuekber" image="elbagla.png"/>
+                           
+    <vakit no="5"  section="2" rekat="2" dua="besmele" />
+    <vakit no="5"  section="2" rekat="2" dua="fatiha" />
+    <vakit no="5"  section="2" rekat="2" sure="*" />
+    <vakit no="5"  section="2" rekat="2" ses="allahuekber" image="ruku.png"/>
+    <vakit no="5"  section="2" rekat="2" dua="subhanerabbiyelazim"/>
+    <vakit no="5"  section="2" rekat="2" dua="Semiallahu" />
+    <vakit no="5"  section="2" rekat="2" dua="Rabbenalekelhamd" />
+    <vakit no="5"  section="2" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="2" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="2" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="5"  section="2" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="2" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="2" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="5"  section="2" rekat="2" dua="ettehiyyatu" />
+    <vakit no="5"  section="2" rekat="2" ses="allahuekber" image="elbagla.png"/>
+                           
+    <vakit no="5"  section="2" rekat="3" dua="besmele" />
+    <vakit no="5"  section="2" rekat="3" dua="fatiha" />
+    <vakit no="5"  section="2" rekat="3" ses="allahuekber" image="ruku.png"/>
+    <vakit no="5"  section="2" rekat="3" dua="subhanerabbiyelazim"/>
+    <vakit no="5"  section="2" rekat="3" dua="Semiallahu"/>
+    <vakit no="5"  section="2" rekat="3" dua="Rabbenalekelhamd" />
+    <vakit no="5"  section="2" rekat="3" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="2" rekat="3" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="2" rekat="3" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="5"  section="2" rekat="3" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="2" rekat="3" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="2" rekat="3" ses="allahuekber" image="elbagla.png"/>
+                           
+    <vakit no="5"  section="2" rekat="4" dua="besmele" />
+    <vakit no="5"  section="2" rekat="4" dua="fatiha" />
+    <vakit no="5"  section="2" rekat="4" ses="allahuekber" image="ruku.png"/>
+    <vakit no="5"  section="2" rekat="4" dua="subhanerabbiyelazim"/>
+    <vakit no="5"  section="2" rekat="4" dua="Semiallahu" />
+    <vakit no="5"  section="2" rekat="4" dua="Rabbenalekelhamd" />
+    <vakit no="5"  section="2" rekat="4" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="2" rekat="4" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="2" rekat="4" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="5"  section="2" rekat="4" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="2" rekat="4" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="2" rekat="4" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="5"  section="2" rekat="4" dua="ettehiyyatu" />   
+    <vakit no="5"  section="2" rekat="4" dua="allahummesalli" />
+    <vakit no="5"  section="2" rekat="4" dua="allahummebarik" />
+    <vakit no="5"  section="2" rekat="4" dua="rabbenaatina"/>
+    <vakit no="5"  section="2" rekat="4" dua="rabbenagfirli"/>
+    <vakit no="5"  section="2" rekat="4" duaAdi="Sağa Selam" path="esselamualeykumverahmetullah.mp3" image="sagaselam.png"/>
+    <vakit no="5"  section="2" rekat="4" duaAdi="Sola Selam" path="esselamualeykumverahmetullah.mp3" image="solaselam.png"/>
+    
+    <!--yatsı son sünnet-->
+    <vakit no="5"  section="3" rekat="1" duaAdi="Niyet" path="niyetyatsisonsunnet.mp3" image="kiyam.png"/>
+    <vakit no="5"  section="3" rekat="1" ses="allahuekber" image="tekbir.png"/>
+    <vakit no="5"  section="3" rekat="1" dua="subhaneke" />
+    <vakit no="5"  section="3" rekat="1" dua="euzubesmele"/>
+    <vakit no="5"  section="3" rekat="1" dua="fatiha" />
+    <vakit no="5"  section="3" rekat="1" sure="*" />
+    <vakit no="5"  section="3" rekat="1" ses="allahuekber" image="ruku.png"/>
+    <vakit no="5"  section="3" rekat="1" dua="subhanerabbiyelazim"/>
+    <vakit no="5"  section="3" rekat="1" dua="Semiallahu"/>
+    <vakit no="5"  section="3" rekat="1" dua="Rabbenalekelhamd" />
+    <vakit no="5"  section="3" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="3" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="3" rekat="1" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="5"  section="3" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="3" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="3" rekat="1" ses="allahuekber" image="elbagla.png"/>
+                           
+    <vakit no="5"  section="3" rekat="2" dua="besmele" />
+    <vakit no="5"  section="3" rekat="2" dua="fatiha" />
+    <vakit no="5"  section="3" rekat="2" sure="*" />
+    <vakit no="5"  section="3" rekat="2" ses="allahuekber" image="ruku.png"/>
+    <vakit no="5"  section="3" rekat="2" dua="subhanerabbiyelazim"/>
+    <vakit no="5"  section="3" rekat="2" dua="Semiallahu" />
+    <vakit no="5"  section="3" rekat="2" dua="Rabbenalekelhamd" />
+    <vakit no="5"  section="3" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="3" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="3" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="5"  section="3" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="3" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="3" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="5"  section="3" rekat="2" dua="ettehiyyatu" />
+    <vakit no="5"  section="3" rekat="2" dua="allahummesalli" />
+    <vakit no="5"  section="3" rekat="2" dua="allahummebarik" />
+    <vakit no="5"  section="3" rekat="2" dua="rabbenaatina"/>
+    <vakit no="5"  section="3" rekat="2" dua="rabbenagfirli"/>
+    <vakit no="5"  section="3" rekat="2" duaAdi="Sağa Selam" path="esselamualeykumverahmetullah.mp3" image="sagaselam.png"/>
+    <vakit no="5"  section="3" rekat="2" duaAdi="Sola Selam" path="esselamualeykumverahmetullah.mp3" image="solaselam.png"/>
+
+    <!--Yatsı Son Sünnet -->
+                            
+    <vakit no="5"  section="4" rekat="1" duaAdi="Niyet" path="niyetvitir.mp3" image="kiyam.png"/>
+    <vakit no="5"  section="4" rekat="1" ses="allahuekber" image="tekbir.png"/>
+    <vakit no="5"  section="4" rekat="1" dua="subhaneke" />
+    <vakit no="5"  section="4" rekat="1" dua="euzubesmele"/>
+    <vakit no="5"  section="4" rekat="1" dua="fatiha" />
+    <vakit no="5"  section="4" rekat="1" sure="*" />
+    <vakit no="5"  section="4" rekat="1" ses="allahuekber" image="ruku.png"/>
+    <vakit no="5"  section="4" rekat="1" dua="subhanerabbiyelazim"/>
+    <vakit no="5"  section="4" rekat="1" dua="Semiallahu"/>
+    <vakit no="5"  section="4" rekat="1" dua="Rabbenalekelhamd" />
+    <vakit no="5"  section="4" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="4" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="4" rekat="1" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="5"  section="4" rekat="1" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="4" rekat="1" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="4" rekat="1" ses="allahuekber" image="elbagla.png"/>
+                            
+    <vakit no="5"  section="4" rekat="2" dua="besmele" />
+    <vakit no="5"  section="4" rekat="2" dua="fatiha" />
+    <vakit no="5"  section="4" rekat="2" sure="*" />
+    <vakit no="5"  section="4" rekat="2" ses="allahuekber" image="ruku.png"/>
+    <vakit no="5"  section="4" rekat="2" dua="subhanerabbiyelazim"/>
+    <vakit no="5"  section="4" rekat="2" dua="Semiallahu" />
+    <vakit no="5"  section="4" rekat="2" dua="Rabbenalekelhamd" />
+    <vakit no="5"  section="4" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="4" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="4" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="5"  section="4" rekat="2" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="4" rekat="2" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="4" rekat="2" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="5"  section="4" rekat="2" dua="ettehiyyatu" />
+    <vakit no="5"  section="4" rekat="2" ses="allahuekber" image="elbagla.png"/>
+                           
+    <vakit no="5"  section="4" rekat="3" dua="besmele" />
+    <vakit no="5"  section="4" rekat="3" dua="fatiha" />
+    <vakit no="5"  section="4" rekat="3" sure="*" />
+    <vakit no="5"  section="4" rekat="3" ses="allahuekber" image="tekbir.png"/>
+    <vakit no="5"  section="4" rekat="3" dua="kunutduasi1" />
+    <vakit no="5"  section="4" rekat="3" dua="kunutduasi2" />
+    <vakit no="5"  section="4" rekat="3" ses="allahuekber" image="ruku.png"/>  
+    <vakit no="5"  section="4" rekat="3" dua="subhanerabbiyelazim"/>
+    <vakit no="5"  section="4" rekat="3" dua="Semiallahu" />
+    <vakit no="5"  section="4" rekat="3" dua="Rabbenalekelhamd" />
+    <vakit no="5"  section="4" rekat="3" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="4" rekat="3" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="4" rekat="3" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="5"  section="4" rekat="3" ses="allahuekber" image="secde.png"/>
+    <vakit no="5"  section="4" rekat="3" dua="subhanerabbiyelala" />
+    <vakit no="5"  section="4" rekat="3" ses="allahuekber" image="tahiyyat.png"/>
+    <vakit no="5"  section="4" rekat="3" dua="ettehiyyatu" />   
+    <vakit no="5"  section="4" rekat="3" dua="allahummesalli" />
+    <vakit no="5"  section="4" rekat="3" dua="allahummebarik" />
+    <vakit no="5"  section="4" rekat="3" dua="rabbenaatina"/>
+    <vakit no="5"  section="4" rekat="3" dua="rabbenagfirli"/>
+    <vakit no="5"  section="4" rekat="3" duaAdi="Sağa Selam" path="esselamualeykumverahmetullah.mp3" image="sagaselam.png"/>
+    <vakit no="5"  section="4" rekat="3" duaAdi="Sola Selam" path="esselamualeykumverahmetullah.mp3" image="solaselam.png"/>  
+        
+    <!-- Yatsı Tesbihat -->
+    <vakit no="5"  section="5" rekat="1" dua="allahummeentesselamu" />
+    <vakit no="5"  section="5" rekat="1" dua="subhanallahuvelhamdulillahi" />
+    <vakit no="5"  section="5" rekat="1" dua="ayetelkursi" /> 
+    <vakit no="5"  section="5" rekat="1" dua="zulcelalisubhannallah"/>
+    <vakit no="5"  section="5" rekat="1" duaAdi="tesbih" path="tesbih.mp3" image="tahiyyat.png" turkce="33 kez Subhanallah denilir" meal="Allah noksan sıfatlardan uzaktır." />
+    <vakit no="5"  section="5" rekat="1" dua="zulkemalelhamdulillah"/>  
+    <vakit no="5"  section="5" rekat="1" duaAdi="tesbih" path="tesbih.mp3" image="tahiyyat.png" turkce="33 kez Elhamdülillah denilir" meal="Hamd Allah'adır."/>
+    <vakit no="5"  section="5" rekat="1" dua="zulkdretillahuekber"/>
+    <vakit no="5"  section="5" rekat="1" duaAdi="tesbih" path="tesbih.mp3" image="tahiyyat.png" turkce="33 kez Allahûekber denilir" meal="Allah en büyüktür." />
+    <vakit no="5"  section="5" rekat="1" dua="leilaheillallahu"/>
+    <vakit no="5"  section="5" rekat="1" dua="selatentuncine"/>
+
+
+  </vakitler>
+  <sesler>
+    <!-- resimleri farklı olan sabit dualar için ses tanımlanır -->
+    <ses name="allahuekber"  duaAdi="Tekbir"  path="allahuekber.mp3"
+         turkce="Allahûekber"
+         meal="Allah en büyüktür." />
+  </sesler>
+  <dualar>
+    <!-- tüm özellikleri aynı olan dualar için dua tanımlanır -->
+    <dua name="fatiha" turkce="Elhamdü lillâhi rabbil'alemin. Errahmânir'rahim. Mâliki yevmiddin. İyyâke na'budu ve iyyâke neste'în, İhdinessırâtel mustakîm. Sırâtellezine en'amte aleyhim ğayrilmağdûbi aleyhim ve leddâllîn."
+         meal="Hamd, âlemlerin Rabbi, merhametli olan, merhamet eden ve Din Günü'nün sahibi olan Allah'a mahsustur. (Allahım!) Ancak sana kulluk eder ve yalnız senden yardım dileriz. Bizi doğru yola, nimete erdirdiğin kimselerin, gazaba uğramayanların, sapmayanların yoluna eriştir."
+         duaAdi="Fatiha Suresi" path="fatiha.mp3" image="elbagla.png"/>
+    <dua name="subhaneke" turkce="Subhânekellâhumme ve bi hamdik ve tebârakesmuk ve teâlâ cedduk ve lâ ilâhe ğayruk "
+         meal="Allah'ım! Sen eksik sıfatlardan pak ve uzaksın. Seni daima böyle tenzih eder ve överim. Senin adın mübarektir. Varlığın her şeyden üstündür. Senden başka ilah yoktur."
+         duaAdi="Subhaneke" path="subhaneke.mp3" image="elbagla.png"/>
+    <dua name="ettehiyyatu" turkce="Ettehiyyâtu lillâhi vessalevâtu vettayibât. Esselâmu aleyke eyyuhen-Nebiyyu ve rahmetullahi ve berakâtuhu. Esselâmu aleynâ ve alâ ibâdillâhis-Sâlihîn. Eşhedu en lâ ilâhe illallâh ve eşhedu enne Muhammeden abduhû ve Rasuluh."
+         meal="Dil ile, beden ve mal ile yapılan bütün ibadetler Allah'a dır. Ey Peygamber! Allah'ın selamı, rahmet ve bereketleri senin üzerine olsun. Selam bizim üzerimize ve Allah'ın bütün iyi kulları üzerine olsun. Şahitlik ederim ki, Allah'tan başka ilah yoktur. Yine şahitlik ederim ki, Muhammed, O'nun kulu ve Peygamberidir."
+         duaAdi="Ettehiyyâtu" path="ettehiyyatu.mp3" image="tahiyyat.png"/>
+    <dua name="allahummesalli" turkce="Allâhumme salli alâ Muhammedin ve alâ âli Muhammed. Kemâ salleyte alâ İbrahime ve alâ âli İbrahim. İnneke hamidun mecîd."
+         meal="Allah'ım! Muhammed'e ve Muhammed'in ümmetine rahmet eyle; şerefini yücelt. İbrahim'e ve İbrahim'in ümmetine rahmet ettiğin gibi. Şüphesiz övülmeye layık yalnız sensin, şan ve şeref sahibi de sensin."
+         duaAdi="Allahümme Salli" path="allahummesalli.mp3" image="tahiyyat.png"/>
+    <dua name="allahummebarik" turkce="Allâhumme barik alâ Muhammedin ve alâ âli Muhammed. Kemâ barekte alâ İbrahîme ve alâ âli İbrahim. İnneke hamidun mecîd"
+        meal="Allah'ım! Muhammed'e ve Muhammed'in ümmetine hayır ve bereket ver. İbrahim'e ve İbrahim'in ümmetine verdiğin gibi. Şüphesiz övülmeye layık yalnız sensin, şan ve şeref sahibi de sensin."
+        duaAdi="Allâhümme Barik" path="allahummebarik.mp3" image="tahiyyat.png"/>
+    <dua name="rabbenaatina" turkce="Rabbenâ âtina fid'dunyâ haseneten ve fil'âhirati haseneten ve kınâ azâbennâr."
+        meal="Allah'ım! Bize dünyada iyilik ve güzellik, ahirette de iyilik, güzellik ver. Bizi ateş azabından koru."
+        duaAdi="Rabbenâ Âtina" path="rabbenaatina.mp3" image="tahiyyat.png"/>
+    <dua name="rabbenagfirli" turkce=" Rabbenâğfirlî ve li-vâlideyye ve lil-Mu'minine yevme yekûmu'l hisâb."
+        meal="Ey bizim Rabbimiz! Beni, anamı ve babamı ve bütün mü'minleri hesap gününde (herkesin sorguya çekileceği günde) bağışla"
+        duaAdi="Rabbenâğfirli" path="rabbenafirli.mp3" image="tahiyyat.png"/>
+    <dua name="kunutduasi1" turkce="Allâhumme innâ nesteînuke ve nestağfiruke ve nestehdik. Ve nu'minu bike ve netûbu ileyk. Ve netevekkelu aleyke ve nusni aleykel-hayra kullehu neşkuruke ve lâ nekfuruke ve nahleu ve netruku men yefcuruk"
+         meal="Allahım! Senden yardım isteriz, günahlarımızı bağışlamanı isteriz, razı olduğun şeylere hidayet etmeni isteriz. Sana inanırız, sana tevbe ederiz. Sana güveniriz. Bize verdiğin bütün nimetleri bilerek seni hayır ile överiz. Sana şükrederiz. Hiçbir nimetini inkar etmez ve onları başkasından bilmeyiz. Nimetlerini inkar eden ve sana karşı geleni bırakırız."
+         duaAdi="Kunut Duası - 1" path="kunutduasibir.mp3" image="elbagla.png"/>
+    <dua name="kunutduasi2" turkce="Allâhumme iyyâke na'budu ve leke nusalli ve nescudu ve ileyke nes'a ve nahfidu nercû rahmeteke ve nahşâ azâbeke inne azâbeke bilkuffâri mulhık"
+         meal="Allahım! Biz yalnız sana kulluk ederiz. Namazı yalnız senin için kılarız, ancak sana secde ederiz. Yalnız sana koşar ve sana yaklaştıracak şeyleri kazanmaya çalışırız. İbadetlerini sevinçle yaparız. Rahmetinin devamını ve çoğalmasını dileriz. Azabından korkarız, şüphesiz senin azabın kafirlere ve inançsızlara ulaşır."
+         duaAdi="Kunut Duası - 2 " path="kunutduasiiki.mp3" image="elbagla.png"/>
+    <dua name="ayetelkursi" turkce="Allahülailahe illa huvel hayyul kayyum, late'huzuhu sinetun vela nevmun, lehu mafissemavati ve mafil ardı, men zelleziy yeşfe-u ındehu illa biiznih yağlemu mabeyne eydiyhim vema halfehum vela yuhıtune bişey'in min ılmihı illa bimaşae, vesia kursiyyuhussemavati vel'arda vela yeuduhu hıfzuhuma vehuvel aliyyul azim."
+        meal="O'ndan başka ilah olmayan Allah, hay ve kayyumdur (ezel ve ebedidir). O'nu uyuklama ve uyku tutmaz. Göklerde ve yerlerde olan şeyler O'nundur. İzni olmaksızın O'nun yanında şefaat eden yoktur. Halkın önünde ve arkasında olanı (istikbal ve maziyi) bilir. İnsanlar O'nun ilminden, O'nun isteğinden başkasını ihata edemezler. Kürsisi semaları ve yeri içine alır. Onların hıfzı O'nu (Cenab-ı Ecelli Ala'yı) yormaz. O, pek yüksek ve büyüktür."
+        duaAdi="Ayet-el Kürsi" path="ayetelkursi.mp3" image="tahiyyat.png"/>
+
+    <dua name="subhanerabbiyelala" turkce="Sübhâne Rabbiye'l-A'lâ"
+         meal="Ey Yüce Rabb'im! Seni bütün noksan sıfatlardan tenzih ederim."
+         duaAdi="Sübhâne Rabbiye'l-A'lâ" path="subhanerabbiyelala.mp3" image="secde.png" visible="false" />
+    <dua name="Semiallahu" turkce="Semiallâhü Limen Hamideh"
+         meal="Allah kendisine hamd edenleri işitti (kabul etti)."
+         duaAdi="Semiallâhü limen hamideh" path="samiallahulimenhamideh.mp3" image="kiyam.png" visible="false" />
+    <dua name="Rabbenalekelhamd" turkce="Rabbenâ leke'l-hamd"
+         meal=" Ey Rabbimiz! Her türlü hamd ancak sanadır."
+         duaAdi="Rabbenâ leke'l-hamd" path="rabbenelekelhamd.mp3" image="kiyam.png" visible="false" />
+    <dua name="subhanerabbiyelazim" turkce="Sübhâne Rabbiyel Azim"
+         meal="Ey büyük Rabb'im! Seni bütün noksan sıfatlardan tenzih ederim."
+         duaAdi="Rükû" path="subhanerabbiyelazim.mp3" image="ruku.png" visible="false" />
+    <dua name="euzubesmele" turkce="Euzübillahimineşşeytanirracim Bismillahirrahmanirrahim"
+         meal="Rahman ve Rahim olan Allah’ın adı ile şeytanın şerrinden Allah'a sığınırım.  "
+         duaAdi="Eûzü-Besmele" path="euzubesmele.mp3" image="elbagla.png" visible="false" />
+    <dua name="besmele" turkce="Bismillahirrahmanirrahim"
+         meal="Rahman ve Rahim olan Allah’ın adıyla başlarım."
+         duaAdi="Besmele" path="bismillahirrahmanirrahim.mp3" image="elbagla.png" visible="false" />
+    
+
+    <dua name="allahummeentesselamu" turkce="Allahümme ente'sselâm ve minke'sselâm tebârekte ve teâleyte yâ ze'lcelâli ve'l-ikrâm"
+     meal="Allah'ım sen selamsın. Selamet de sendendir. Ey celâl ve ikrâm sâhibi sen münezzehsin, sen yücesin"
+     duaAdi="Namaz Sonu" path="allahummeentesselamu.mp3" image="tahiyyat.png" />
+    <dua name="subhanallahuvelhamdulillahi" turkce="Sübhanallahi velhamdülillahi ve la ilahe illallahu vallahu ekber, vela havle vela kuvvete illa billahil aliyyil azim."
+        meal="Allah bütün noksan sıfatlardan münezzehtir, bütün hamdler ona mahsustur. Allah’tan başka ilah yoktur. Allah en büyüktür, bütün güç ve kuvvet, yalnızca en Yüce ve en Büyük olan Allah’ın (c.c.) yardımıyla elde edilir."
+      duaAdi="Tesbihat Dua 1" path="subhanallahuvelhamdulillahi.mp3" image="tahiyyat.png" />    
+    <dua name="zulcelalisubhannallah" turkce="Zülcelali SübhânAllâh" meal="Allah noksan sıfatlardan uzaktır." duaAdi="Subhanallah (33)" path="zulcelalisubhannallah.mp3" image="tahiyyat.png" visible="false" />
+    <!-- visible="false" sure ve dualar ekranında listelenmememsi için kullanılır -->
+    <dua name="zulkemalelhamdulillah" turkce="Zülkemâlil Hamdülillâh" meal="Hamd Allah'adır." duaAdi="Elhamdülillah (33)" path="zulkemalelhamdulillah.mp3" image="tahiyyat.png" visible="false" />
+    <dua name="zulkdretillahuekber" turkce="Zül Kudretillahü Ekber" meal="Allah en büyüktür." duaAdi="AllahuEkber (33)"  path="zulkdretillahuekber.mp3" image="tahiyyat.png" visible="false" />
+    <dua name="leilaheillallahu" turkce="Lâ ilâhe illallahü vahdehû lâ şerîke lehü, lehü’l-mülkü ve lehû’l-hamdü yuhyî ve yümîtü ve huve hayyun lâ yemût, biyedihil hayr ve hüve alâ külli şey’in kadîr." meal="Allah’tan başka ibadete lâyık hiçbir ilâh yoktur.O birdir; Onun hiçbir şeriki yoktur. Mülk Ona ait, hamd Ona mahsustur. Hayatı veren de Odur, ölümü veren de Odur. O, kendisine asla ölüm ârız olmayan Hayy-ı Ezelîdir. Bütün hayır Onun elindedir. O her şeye hakkıyla kàdirdir." duaAdi="leilaheillallahu" path="leilaheillallahu.mp3" image="tahiyyat.png"  />
+    <dua name="selatentuncine" turkce="Allâhumme salli alâ Seyyidinâ Muhammedin ve alâ âli Seyyidina Muhammedin salâten tüncînâ bihâ min-cemî'il-ehvâli vel âfat. Ve takdî lenâ bihâ cemîal hâcât ve tutahhirunâ bihâ min-cemîi's-seyyiât ve terfe'unâ bihâ ındeke a'lâ'd-deracât ve tubelliğunâ bihâ aksâ'l-ğayât min cemiîl-hayrâti fî'l-hayâti ve ba'del-memât" meal="Allah'ım! Efendimiz Muhammed'e (asm) ve onun Ehl-i beytine salât eyle. Bu salâvat o derece değerli olsun ki: Onun hürmetine bizi bütün korku ve belalardan kurtarırsın. Bizim ihtiyaçlarımızı o salâvat hürmetine yerine getirirsin, bizi bütün günahlardan bu salâvat hürmetine temizlersin, o salâvat hürmetine bizi derecelerin en üstüne yüceltirsin, o salâvat hürmetine hayatta ve öldükten sonra düşünülebilecek bütün hayırlar konusunda gayelerin en sonuna kadar ulaştırırsın. Ey merhametlilerin merhametlisi, bize bunları merhametinle nasip eyle." duaAdi="selatentuncine" path="selatentuncine.mp3" image="tahiyyat.png" />
+</dualar>
+
+  <sureler>
+    <!-- Fatihadan sonra okunan sureler için sure tanımlanır -->
+    <sure name="fil" turkce="Elem tera keyfe fe'ale rabbuke biashâbilfîl. Elem yec'al keydehum fî tadlîl. Ve ersele aleyhim tayran ebâbîl. Termîhim bihicâratin min siccîl. Fece'alehum ke'asfin me'kûl."
+         meal="(Ey Muhammed! Kâbe'yi yıkmaya gelen) Fil sahiblerine Rabbinin ne ettiğini görmedin mi? Onların düzenlerini boşa çıkarmadı mı? Onların üzerine, sert taşlar atan sürülerle kuşlar gönderdi. Sonunda onları, yenilmiş ekin gibi yaptı."
+        duaAdi="Fil Suresi" path="fil.mp3" image="elbagla.png" sira="1"/>
+    <sure name="kureys" turkce="Li'î lâfi Kurayş'in. Îlâfihim rihleteşşitâi vessayf. Felya'budû rabbe hâzelbeyt. Ellezî et'amehum min cû'in ve âmenehum min havf."
+         meal="Kureyş kabilesinin yaz ve kış yolculuklarında uzlaşması ve anlaşması sağlanmıştır. Öyleyse kendilerini açken doyuran ve korku içindeyken güven veren bu Kâbe'nin Rabbine kulluk etsinler."
+         duaAdi="Kureyş Suresi" path="kureys.mp3" image="elbagla.png" sira="2"/>
+    <sure name="maun" turkce="Era'eytellezî yukezzibu biddîn. Fezâlikellezî, yedu'ulyetîm. Ve lâ yehuddu alâ ta'âmilmiskîn. Feveylun lilmusallîn. Ellezîne hum an salâtihim sâhûn. Ellezîne hum yurâûne. Ve yemne'ûnelmâ'ûn."
+         meal="(Ey Muhammed!) Dini yalan sayanı gördün mü? Öksüzü kakıştıran, yoksulu doyurmaya yanaşmayan kimse işte odur. Vay o namaz kılanların haline ki: Onlar kıldıkları namazdan gâfildirler. Onlar gösteriş yaparlar. Onlar basit şeyleri (ödünç) dahi vermezler."
+         duaAdi="Maun Suresi" path="maun.mp3" image="elbagla.png" sira="3"/>
+    <sure name="kevser" turkce="İnnâ a'taynâkelkevser. Fesalli lirabbike venhar. İnne şânieke huvel'ebter."
+         meal="(Ey Muhammed!) Doğrusu sana pek çok nimet vermişizdir. Öyleyse Rabbin için namaz kıl, kurban kes. Doğrusu adı, sanı ortadan kalkacak olan, sana kin tutan kimsedir."
+         duaAdi="Kevser Suresi" path="kevser.MP3" image="elbagla.png" sira="4"/>
+   <!-- <sure name="Kâfirûn" turkce="Kul yâ eyyuhel kâfirûn. Lâ a'budu mâ ta'budûn. Ve lâ entum âbidûne mâ a'bud. Ve lâ ene âbidun mâ abedtum. Ve lâ entum âbidûne mâ a'bud. Lekum dînukum veliye dîn."  
+        meal="(Ey Muhammed!) De ki: Ey inkârcılar! Ben sizin taptıklarınıza tapmam. Benim taptığıma da sizler tapmazsınız. Ben de sizin taptığınıza tapacak değilim. Benim taptığıma da sizler tapmıyorsunuz. Sizin dininiz size, benim dinim banadır." 
+        duaAdi="Kâfirûn Suresi" path="" image="elbagla.png" sira="5"/>
+    -->
+    <sure name="nasr" turkce="İzâ câe nasrullahi velfeth. Ve raeytennâse yedhulûne fî dinillâhi efvâcâ. Fesebbih bihamdi rabbike vestağfirh. İnnehû kâne tevvâbâ."
+         meal="(Ey Muhammed!) Allah'ın yardımı ve zafer günü gelip, insanların Allah'ın dinine akın akın girdiklerini görünce, Rabbini överek tesbih et; O'ndan bağışlama dile, çünkü O, tevbeleri daima kabul edendir."
+        duaAdi="Nasr Suresi" path="nasr.mp3" image="elbagla.png" sira="6"/>
+    <sure name="tebbet" turkce="Tebbet yedâ ebî lehebin ve tebb. Mâ eğnâ anhu mâluhû ve mâ keseb. Seyeslâ nâren zâte leheb. Vemraetuhû hammâletelhatab. Fî cî dihâ hablun min mesed."
+         meal="Ebû Leheb'in elleri kurusun; kurudu da! Malı ve kazandığı kendisine fayda vermedi. Alevli ateşe yaslanacaktır. Karısı da, boynunda bir ip olduğu halde ona odun taşıyacaktır."
+         duaAdi="Tebbet Suresi" path="tebbet.mp3" image="elbagla.png" sira="7"/>
+    <sure name="ihlas" turkce="Kul hüvellâhü ehad. Allâhussamed. Lem yelid ve lem yûled. Ve lem yekün lehû küfüven ehad."
+         meal="(Ey Muhammed!) De ki: O Allah bir tektir. Allah her şeyden müstağni ve her şey O'na muhtaçtır. O doğurmamış ve doğmamıştır. Hiç bir şey O'na denk değildir."
+         duaAdi="İhlas Suresi" path="ihlas.mp3" image="elbagla.png" sira="8"/>
+    <sure name="felak" turkce="Kul e'ûzu birabbilfelak. Min şerri mâ halak. Ve min şerri ğasikın izâ vekab. Ve min şerrinneffâsâti fil'ukad. Ve min şerri hâsidin izâ hased."
+         meal="(Ey Muhammed!) De ki: Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden, düğümlere nefes eden büyücülerin şerrinden, hased ettiği zaman hasedçinin şerrinden, tan yerini ağartan Rabbe sığınırım."
+          duaAdi="Felak Suresi" path="felak.mp3" image="elbagla.png" sira="9"/>
+    <sure name="nas" turkce="Kul e'ûzu birabbinnâsi. Melikinnâsi. İlâhinnâs. Min şerrilvesvâsilhannâs. Ellezî yuvesvisu fî sudûrinnâsi. Minelcinneti vennâs."
+         meal="(Ey Muhammed!) De ki: İnsanlardan ve cinlerden ve insanların gönüllerine vesvese veren o sinsi vesvesecinin şerrinden, insanların ilahı, insanların hükümranı ve insanların Rabbi olan Allah'a sığınırım."
+         duaAdi="Nas Suresi" path="nas.mp3" image="elbagla.png" sira="10"/>
+    <sure name="asr" turkce="Vel asr İnnel insane le fi husr İllellezıne amenu ve amilus salihati ve tevasav bil hakkı ve tevasav bis sabr "
+         meal="Rahmân ve Rahîm olan Allah'ın ismiyle. Asra yemin olsun ki, İnsan mutlaka ziyandadır. Ancak iman edenler, salih amel (iyi işler) işleyenler, birbirlerine hakkı tavsiye eden ve sabrı tavsiye edenler bunun dışındadır."
+         duaAdi="Asr Suresi" path="asr.mp3" image="elbagla.png" sira="11"/>
+  </sureler>
+</config>
+<!-- 
+Vakit No: 5 tane -> sabah,öğle...
+section-> sünnet farz...
+rekat-> rekat
+
+
+
+-->

@@ -1,0 +1,33 @@
+﻿
+<ion-view>
+    <ion-nav-title> SURE VE DUALAR </ion-nav-title>
+    <ion-content scroll="false">
+        <div class="dualarContainer">
+            <div class="select">
+                <select ng-model="selectedDua" ng-change="ChangeDua(selectedDua)" ng-options="dua.duaAdi for dua in dualar">
+                    <option>Dua Seçiniz</option>
+                </select>
+            </div>
+
+            <div class="textContent1">
+                    <span><b>Okunuşu:</b></span>{{selectedDua.turkce}}
+            </div>
+            <div class="textContent2">
+                    <span><b>Anlamı:</b></span>{{selectedDua.meal}}
+            </div>
+        </div>
+            
+        <div class="center">
+        <div class="tekrar">
+            <ion-checkbox ng-change="tekrarChange(tekrar)" ng-model="tekrar">Tekrar</ion-checkbox>
+        </div>
+            <div class="playerControls">
+                <button ng-click="Back()" class="button icon-left ion-skip-backward"></button>
+                <button ng-click="PlayPause()" class="button icon {{isPlaying==true ? 'ion-pause' : 'ion-play'}}"></button>
+                <button ng-click="Stop()" class="button icon ion-stop"></button>
+                <button ng-click="Next()" class="button icon-right ion-skip-forward"></button>                
+            </div>
+        </div>
+
+    </ion-content>
+</ion-view>
