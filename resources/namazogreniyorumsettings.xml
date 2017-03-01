@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
 	<setting version="2.00.005" message="Geliştirilme aşamasında olan uygulamamızın yeni bir sürümü mevcut, güncellemek ister misiniz?" link="market://details?id=com.namaz.namazOgretmeni" />
-	<setting version="2.00.007" message="Uygulamamızın amacının namaz kılmayı öğreninceye kadar sizlere yardımcı olmak olduğunu lütfen unutmayınız. Bir an önce öğrenip kendiniz kılmaya çalışınız, böylesi daha hayırlı olacaktır. <br> Allah ibadetlerinizi kabul etsin. Hayır dualarınızı bekliyorum..." link="" />
+	<setting version="2.00.008" message="Uygulamamızın amacının namaz kılmayı öğreninceye kadar sizlere yardımcı olmak olduğunu lütfen unutmayınız. Bir an önce öğrenip kendiniz kılmaya çalışınız, böylesi daha hayırlı olacaktır. <br> Allah ibadetlerinizi kabul etsin. Hayır dualarınızı bekliyorum..." link="" />
 </config>
